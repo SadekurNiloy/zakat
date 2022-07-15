@@ -50,5 +50,7 @@ body {
     padding: 10px 15px;
     border-radius: 5px;
 }
-
+section {
+    margin: 100px 0;
+}
 
