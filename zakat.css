@@ -3,6 +3,12 @@ body {
     font-family: tahoma;
     background-color: #55efc4;
 }
+h1 {
+   text-align: center; 
+}
+.header-area p {
+    text-align: center;
+}
 .main-menu {
     position: fixed;
     top: 0;
@@ -36,10 +42,17 @@ body {
 .zakat-1 {
     display: flex;
 }
+.text-side {
+    margin: 0 10px;
+}
 /* another-section */
 .zakat-2 {
     display: flex;
 }
+.zakat-2 .image-side img {
+        width: 600px;
+        height: 425px;
+    }
 /* another-section */
 .middle {
     display: flex;
